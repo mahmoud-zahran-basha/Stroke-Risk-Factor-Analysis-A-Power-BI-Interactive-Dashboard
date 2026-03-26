@@ -1,9 +1,10 @@
 # Stroke Risk Factor Analysis Dashboard
 
-![Description](images/stroke_1.jpg)
-![Description](images/stroke_2.jpg)
+![Description](stroke_1.jpg)
 
-)
+
+![Description](stroke_2.jpg)
+
 
 ## Project Overview
 
