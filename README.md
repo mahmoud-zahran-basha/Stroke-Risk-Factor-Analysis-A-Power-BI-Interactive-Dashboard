@@ -1,5 +1,10 @@
 # Stroke Risk Factor Analysis Dashboard
 
+![Description](images/stroke_1.jpg)
+![Description](images/stroke_2.jpg)
+
+)
+
 ## Project Overview
 
 This Power BI project provides an interactive and data-driven dashboard designed to analyze and visualize the relationships between various health factors and the occurrence of stroke. By examining a dataset "https://www.kaggle.com/datasets/alsawymohamed/helthcare-stroke?select=healthcare_stroke_dataset.csv"
